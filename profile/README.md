@@ -16,7 +16,7 @@ Since we are proficient in writing some pure code for frontend, we are excited t
 
 ## Contributing to Saveron Industries 🦦
 
-- Multilingual? Help us translate our projects.
+- Multilingual? Help us translate our projects[.](https://github.com/SaveronLLC)
 - `More probably soon.`
 
 <img align="centr" src="https://cdn.discordapp.com/attachments/745937151094423642/1039469272642093129/1667899108790.png">
